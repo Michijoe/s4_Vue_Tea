@@ -22,7 +22,7 @@ Le site est construit comme une single page application (SPA), le DOM et la base
 
 Les librairies suivantes ont été utilisées : Axios, Express, Cors, Sequelize, Body parser, MySQL2.
 
-**Lien vers le projet live :** [Tea & Vue](https://teavue.johannapenet.com/)
+**👩‍💻 Lien vers le projet live :** [Tea & Vue](https://teavue.johannapenet.com/)
 
 ## 🚀 Quickstart
 
