@@ -38,7 +38,7 @@
         <input
           type="text"
           id="productPhoto"
-          placeholder=""
+          placeholder="ex: souk.webp"
           v-model="product.photo"
           required
         />
