@@ -50,5 +50,6 @@ client $ npm run serve
 
 ## 🌐 Demo Video
 
-https://github.com/Michijoe/s4_Vue_Tea/assets/119381526/0aef8e80-a3ce-459e-9f64-b2f76bf524c0
+https://github.com/Michijoe/s4_Vue_Tea/assets/119381526/b699ef56-d9a1-4a71-b60e-47037dfdc7d4
+
 
