@@ -18,7 +18,7 @@ Plateforme de e-commerce avec une interface client Vue JS, un serveur Node JS et
 
 Site web de vente de thé qui permet à l’utilisateur d’accéder à une page d’accueil, au catalogue des produits et à une page à propos. À partir du catalogue, l’utilisateur peut également ajouter, modifier et supprimer un produit.
 
-Le site est monopage (SPA), le DOM et la base de données sont mis à jour sans faire de requêtes HTTP.
+Le site est construit comme une single page application (SPA), le DOM et la base de données sont mis à jour sans faire de requêtes HTTP.
 
 Les librairies suivantes ont été utilisées : Axios, Express, Cors, Sequelize, Body parser, MySQL2.
 
