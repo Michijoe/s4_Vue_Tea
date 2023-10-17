@@ -1,4 +1,4 @@
-# REACT Tea
+# Tea & Vue
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -22,7 +22,7 @@ Le site est monopage (SPA), le DOM et la base de données sont mis à jour sans 
 
 Les librairies suivantes ont été utilisées : Axios, Express, Cors, Sequelize, Body parser, MySQL2.
 
-*Lien vers le projet live :* [Tea & Vue](https://teavue.johannapenet.com/)
+**Lien vers le projet live :** [Tea & Vue](https://teavue.johannapenet.com/)
 
 ## 🚀 Quickstart
 
